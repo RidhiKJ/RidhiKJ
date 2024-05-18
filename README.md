@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**RidhiKJ/RidhiKJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Web Developer for GirlScript.
 - 🌱 I’m currently expanding dsa alongwith my development skills.
 - 👯 I’m looking to collaborate on any creative and real life projects.
