@@ -9,3 +9,4 @@
               
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I have done several commits using my mobile instead of laptop....
+<img src=https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20Dark.png" width="100px" height="100px" />
