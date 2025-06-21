@@ -14,6 +14,6 @@
 - Hackathons & Research Writing
 
 ## 📫 Connect with me
-[LinkedIn](https://www.linkedin.com/in/ridhikumari-jha/) 
+[LinkedIn](https://www.linkedin.com/in/ridhi-jha-aa2969222) 
 [Email](mailto:ridhikj@example.com)
 
