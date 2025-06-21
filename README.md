@@ -6,6 +6,7 @@
 - 🧠 **ASD Detection (CNN + Transformer):** Cross-modal model combining image + text for autism diagnosis.
 - 🌐 **TripEase:** AI-powered travel planner using Gemini, Prisma, Firebase, and React.
 - 📡 **Disaster Detection Agent:** Cross-modal disaster event detector using BERT and CNN.
+- and many more........
 
 ## 🔍 Interests
 - Deep Learning (CNNs, RNNs, Transformers)
